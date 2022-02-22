@@ -16,4 +16,3 @@ Linux example code in C for ALSA MIDI out
  *	When ready press return for the first note.
  *	Continue to press return untill all 7 notes are played,
  *	then program exits automatically.
- *	
