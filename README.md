@@ -1,5 +1,5 @@
 # alsa-midi-out-example
-Linux example code in C for ALSA MIDI out
+Linux example code in C for ALSA MIDI out. Could not find any working short example, so I made this.
 
 ### dependencies for compilation:
   sudo apt-get install libasound2-dev
