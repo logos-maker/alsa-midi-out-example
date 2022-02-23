@@ -5,7 +5,7 @@ Linux example code in C for ALSA MIDI out. Could not find any working short exam
   sudo apt-get install libasound2-dev
   
 ### compile with: 
-  gcc -o midi_in_to_out midi_in_to_out.c -lasound
+  gcc -o alsa_midi_out alsa_midi_out.c -lasound
 
 ### start program in a terminal with:
   ./alsa_midi_out
